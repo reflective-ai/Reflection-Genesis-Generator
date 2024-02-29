@@ -1,0 +1,2 @@
+(812,914 with radius of 85), (1154,914 with a radius of 78), (812,914 with a radius of 100), (813,914 with a radius of 113), (813,914 with a radius of 136), (812,915 with a radius of 171), (984,917 with a radius of 376), (1154,915 with
+a radius of 85), (982,1087 with a radius of 343), (983,1259 with a radius of 172), (983,1086 with a radius of 169), (982,915 with a radius of 340), and (983,745 with a radius of 169).
